@@ -1,2 +1,2 @@
 # IPC
-Asignatura Interacción persona computador
+Asignatura Interacción persona computador, en este repositorio se exponen tanto la documentación generada como los prototipos desarrollados para el diseño de una página web enfocada a la venta de ropa, se detallan exhaustivamente todas sus fases de desarrollo y se propone una vista final del prototipo descargable y visualizable , el trabajo fué desarrollado por : Paula de Jaime, Erika Bracamonte y Edgar Andrés
